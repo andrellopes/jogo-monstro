@@ -1,1 +1,1 @@
-Link: https://andrellopes.github.io/jogo-monstro/
+Link:: https://andrellopes.github.io/jogo-monstro/
